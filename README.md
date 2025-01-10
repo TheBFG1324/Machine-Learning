@@ -43,6 +43,3 @@ In my Machine Learning class, I worked on a diverse set of assignments, applying
 - Evaluated model performance using metrics like **confusion matrices** and **accuracy**.
 
 ---
-
-### Libraries Used:
-- NumPy · Pandas · SciPy · Matplotlib
