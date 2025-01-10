@@ -44,5 +44,5 @@ In my Machine Learning class, I worked on a diverse set of assignments, applying
 
 ---
 
-### Skills Gained:
-- NumPy · Pandas · SciPy · Matplotlib · Python
+### Libraries Used:
+- NumPy · Pandas · SciPy · Matplotlib
