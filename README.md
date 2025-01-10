@@ -1,7 +1,4 @@
-# Machine Learning Classwork
-
-**Duration:** August 2024 - December 2024  
-**Institution:** The University of Kansas  
+# Machine Learning Classwork  
 
 ## Overview
 
